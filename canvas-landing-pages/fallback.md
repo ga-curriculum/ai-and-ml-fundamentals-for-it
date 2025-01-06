@@ -1,27 +1,22 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">AI and ML Fundamentals</span>
 </h1>
 
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
+## About
+
+By the end of this module, you will have a solid understanding of the fundamental concepts, techniques, and applications of AI and Machine Learning. You will be able to explain the differences between key types of AI systems, describe the main components and processes involved in Machine Learning, and recognize the creative potential of Generative AI. This foundational knowledge will empower you to confidently explore further and engage with the exciting world of AI and ML!
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](../setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](../concepts/README.md)                    | -- | tktk Skills covered.                |
-| [tktk Microlesson Name](../microlesson-01/README.md) | -- | tktk Skills covered.                |
-| **Total content**                                    | -- |                                     |
-
-## Level Up content
-
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [tktk Microlesson Name](../microlesson-02/README.md) | -- | tktk Skills covered. |
-| **Total Level Up content**                           | -- |                      |
+| [AI 101](../ai-101/README.md) | 10 min | Core AI concepts                |
+| [Diving Into Machine Learning](../diving-into-machine-learning/README.md) | 10 min | Machine Learning Foundations                |
+| [The Rise of Generative AI](../rise-of-gen-ai/README.md) | 10 min | Generative AI Overview               |
+| **Total content**                                   | 30 min |                                     |
 
 ## References
 
-📖 [Reference Materials](../references/README.md)
+📖 [Reference Materials](./references/README.md)
