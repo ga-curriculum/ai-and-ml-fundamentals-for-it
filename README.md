@@ -1,21 +1,20 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">AI and ML Fundamentals</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+By the end of this module, you will have a solid understanding of the fundamental concepts, techniques, and applications of AI and Machine Learning. You will be able to explain the differences between key types of AI systems, describe the main components and processes involved in Machine Learning, and recognize the creative potential of Generative AI. This foundational knowledge will empower you to confidently explore further and engage with the exciting world of AI and ML!
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
+| [AI 101](./ai-101/README.md) | 10 min | Core AI concepts                |
+| [Diving Into Machine Learning](./diving-into-machine-learning/README.md) | 10 min | Machine Learning Foundations                |
+| [The Rise of Generative AI](./rise-of-gen-ai/README.md) | 10 min | Generative AI Overview               |
+| **Total content**                                   | 30 min |                                     |
 
 ## References
 
@@ -25,32 +24,12 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
-
-### Starter code
-
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed site
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+- None
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/ai-and-ml-fundamentals/canvas-landing-pages/ITB.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/ai-and-ml-fundamentals/canvas-landing-pages/fallback.html)
 
 ### Resources
 
