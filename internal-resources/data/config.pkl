@@ -12,9 +12,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "AI and ML Fundamentals"
+  friendlyName = "AI and ML Fundamentals for IT"
   // This must match the repo name as it appears on GitHub exactly
-  name = "ai-and-ml-fundamentals"
+  name = "ai-and-ml-fundamentals-for-it"
   type = "Lesson"
 }
 

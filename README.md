@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">AI and ML Fundamentals</span>
+  <span class="headline">AI and ML Fundamentals for IT</span>
 </h1>
 
 ## About
@@ -28,8 +28,8 @@ By the end of this module, you will have a solid understanding of the fundamenta
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/ai-and-ml-fundamentals/canvas-landing-pages/ITB.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/ai-and-ml-fundamentals/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/ai-and-ml-fundamentals-for-it/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/ai-and-ml-fundamentals-for-it/canvas-landing-pages/fallback.html)
 
 ### Resources
 

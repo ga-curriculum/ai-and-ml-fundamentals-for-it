@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">AI and ML Fundamentals</span>
+  <span class="headline">AI and ML Fundamentals for IT</span>
 </h1>
 
 ## About

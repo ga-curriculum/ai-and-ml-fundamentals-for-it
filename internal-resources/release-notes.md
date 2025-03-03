@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">AI and ML Fundamentals</span>
+  <span class="headline">AI and ML Fundamentals for IT</span>
   <span class="subhead">Release Notes</span>
 </h1>
 
