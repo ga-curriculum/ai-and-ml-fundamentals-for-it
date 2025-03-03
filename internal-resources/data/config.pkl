@@ -31,7 +31,7 @@ courses {
   }
     new {
     // Do not remove this fallback course!
-    name = "ITB"
+    name = "itb"
     microlessons {
       mls.ai101
       mls.divingIntoMachineLearning
