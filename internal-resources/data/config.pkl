@@ -21,21 +21,21 @@ repo {
 courses {
   new {
     // Do not remove this fallback course!
+    name = "itb"
+    microlessons {
+      mls.artificialIntelligence101
+      mls.divingIntoMachineLearning
+      mls.theRiseOfGenerativeAi
+    }
+  }
+  new {
+    // Do not remove this fallback course!
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.ai101
+      mls.artificialIntelligence101
       mls.divingIntoMachineLearning
-      mls.riseOfGenerativeAi
-    }
-  }
-    new {
-    // Do not remove this fallback course!
-    name = "itb"
-    microlessons {
-      mls.ai101
-      mls.divingIntoMachineLearning
-      mls.riseOfGenerativeAi
+      mls.theRiseOfGenerativeAi
     }
   }
 }

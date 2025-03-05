@@ -14,14 +14,14 @@
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "itb",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "AI 101",
-          "dirName": "ai-101",
+          "friendlyName": "Artificial Intelligence 101",
+          "dirName": "artificial-intelligence-101",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -41,7 +41,7 @@
         },
         {
           "friendlyName": "The Rise of Generative AI",
-          "dirName": "rise-of-gen-ai",
+          "dirName": "the-rise-of-generative-ai",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -73,14 +73,14 @@
       "isActivityTimeShown": true
     },
     {
-      "name": "itb",
+      "name": "fallback",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "AI 101",
-          "dirName": "ai-101",
+          "friendlyName": "Artificial Intelligence 101",
+          "dirName": "artificial-intelligence-101",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -100,7 +100,7 @@
         },
         {
           "friendlyName": "The Rise of Generative AI",
-          "dirName": "rise-of-gen-ai",
+          "dirName": "the-rise-of-generative-ai",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

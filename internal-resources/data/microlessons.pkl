@@ -2,9 +2,9 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-ai101 = new Template.Microlesson {
-  friendlyName = "AI 101"
-  dirName = "ai-101"
+artificialIntelligence101 = new Template.Microlesson {
+  friendlyName = "Artificial Intelligence 101"
+  dirName = "artificial-intelligence-101"
   type = "Content"
   videoUrl = ""
 }
@@ -16,9 +16,9 @@ divingIntoMachineLearning = new Template.Microlesson {
   videoUrl = ""
 }
 
-riseOfGenerativeAi = new Template.Microlesson {
+theRiseOfGenerativeAi = new Template.Microlesson {
   friendlyName = "The Rise of Generative AI"
-  dirName = "rise-of-gen-ai"
+  dirName = "the-rise-of-generative-ai"
   type = "Content"
   videoUrl = ""
 }
