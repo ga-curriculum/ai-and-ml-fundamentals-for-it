@@ -3,7 +3,7 @@
   <span class="subhead">Artificial Intelligence 101</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will learn the core concepts of artificial intelligence (AI), be able to differentiate between narrow and general AI, and understand how AI systems differ from traditional programs.
+**Learning objective:** By the end of this lesson, students will be able to describe the core concepts of artificial intelligence (AI), be able to differentiate between narrow and general AI, and understand how AI systems differ from traditional programs.
 
 ## What is artificial intelligence (AI)?
 

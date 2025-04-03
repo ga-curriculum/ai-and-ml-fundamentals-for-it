@@ -3,7 +3,7 @@
   <span class="subhead">Diving Into Machine Learning</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will  about key components of machine learning (ML), including training data, features, and algorithms, and explore popular ML techniques used in real-world applications.
+**Learning objective:** By the end of this lesson, students will be able to discuss the key components of machine learning (ML), including training data, features, and algorithms, and explore popular ML techniques used in real-world applications.
 
 ## What is machine learning (ML)?
 
@@ -65,11 +65,6 @@ Platforms can use ML algorithms to learn from your past behavior along with the 
   <h2 class="title">Identify real-world use of AI</h2>
   <span class="minutes">5 min</span>
 </div>
-
-With the above in mind, let's discuss the following questions:
-
-- What are some benefits and risks of AI systems compared to regular programs?
-- What can we do to help mitigate those risks when we use AI systems?
 
 From virtual assistants like Siri and Alexa to recommendation systems on Netflix and Amazon, AI and ML are everywhere! It's also revolutionizing industries like healthcare, finance, and transportation. Let's take a few minutes to discuss where you see AI in your daily life.
 

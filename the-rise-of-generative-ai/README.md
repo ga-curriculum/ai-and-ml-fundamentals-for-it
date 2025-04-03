@@ -3,7 +3,7 @@
   <span class="subhead">The Rise of Generative AI</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will discover the creative potential of generative AI, learn about popular generative models like GANs, VAEs, and transformers, and explore exciting applications across various industries.
+**Learning objective:** By the end of this lesson, students will be able to explain the creative potential of generative AI, learn about popular generative models like GANs, VAEs, and transformers, and explore exciting applications across various industries.
 
 ## What is generative AI?
 
